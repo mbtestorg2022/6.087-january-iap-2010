@@ -9,10 +9,60 @@ This section contains the labs and final project.
 Lab Assignments
 ---------------
 
-| LAB # | LABS | SOLUTIONS |
-| --- | --- | --- |
-| Lab 1: Game of life |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit6_087iap10_lab01)) {{< br >}}{{< br >}} ([ZIP]({{< baseurl >}}/resources/lab01)) (This ZIP file contains: 3 .txt files, 3 .c files and 1 .h file.) {{< br >}}{{< br >}}  | ([ZIP]({{< baseurl >}}/resources/lab01_sol)) (This ZIP file contains: 1 .txt file, 1 .h file and 4 .c files.) |
-| Lab 2: Data compression |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit6_087iap10_lab02)) {{< br >}}{{< br >}} ([ZIP]({{< baseurl >}}/resources/lab02)) (This ZIP file contains: 4 .txt files and 2 .c files.) {{< br >}}{{< br >}}  |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LAB #
+{{< thclose >}}
+{{< thopen >}}
+LABS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 1: Game of life
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit6_087iap10_lab01))
+
+([ZIP]({{< baseurl >}}/resources/lab01)) (This ZIP file contains: 3 .txt files, 3 .c files and 1 .h file.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/lab01_sol)) (This ZIP file contains: 1 .txt file, 1 .h file and 4 .c files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 2: Data compression
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit6_087iap10_lab02))
+
+([ZIP]({{< baseurl >}}/resources/lab02)) (This ZIP file contains: 4 .txt files and 2 .c files.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Final Project
 -------------
