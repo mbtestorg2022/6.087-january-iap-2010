@@ -5,6 +5,7 @@ description: "Lecture presentation on dynamic memory allocation, designing the m
   \ malloc(), using malloc(), using valgrind, and garbage collection. \r\n"
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-087-practical-programming-in-c-january-iap-2010/626730575787751a6468f681d95ecb9f_MIT6_087IAP10_lec11.pdf
 file_type: application/pdf
+parent_uid: bcd0cbfc-a96b-ce87-654b-d922938a156f
 resourcetype: Document
 title: Lecture 11
 uid: 62673057-5787-751a-6468-f681d95ecb9f
